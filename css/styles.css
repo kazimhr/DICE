@@ -1,0 +1,36 @@
+body{
+
+	background-color: #4B0082;
+	color: coral;
+}
+.container{
+	width:60%;
+	
+	text-align: center;
+	margin: auto;
+}
+
+.block{
+	display: inline-block;
+	padding: 3% 5%;
+}
+.atbut{
+	display: block;
+	text-align: center;
+	margin: 3% auto;
+	padding: 1% 3%;
+}
+
+.head{
+	font-size: 300%;
+
+}
+
+.footer{
+	text-align: center;
+	margin-top: 8%;
+	margin-bottom: 3%;
+	font-size: 130%;
+	color: black;
+}
+
